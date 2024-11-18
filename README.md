@@ -1,3 +1,4 @@
 # Git-demo
-this is a demo project
-Author- @santosshi
+This is a demo project.
+<br>
+Author- @santoshi
